@@ -15,6 +15,7 @@ namespace ConsoleApp3
             double x = Convert.ToDouble(s);
             double F = Math.Sin(x) + Math.Cos(x);
             Console.WriteLine("Для значения х = { x}, F = { F}.");
+            //Работа создана Бахмаевой Миланой Руслановно 23ИС
         }
     }
 }
